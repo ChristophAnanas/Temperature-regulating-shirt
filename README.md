@@ -1,3 +1,3 @@
-# UniversityMapping
+# Das letzte Shirt, das du jemals brauchen wirst.
 
-Das Ziel dieser Anwendung ist es, Studierenden, Angestellten oder Gästen der Universität die Orientierung am Campus zu erleichtern.
+Bei dieser Art Kleidungsstück wirst du weder frieren, noch wird dir übermäßig warm: Durch modernste Technologie regelt das Shirt automatisch auf ein konstantes Temperaturlevel.
